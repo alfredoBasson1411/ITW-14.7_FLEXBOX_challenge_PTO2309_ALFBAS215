@@ -1,5 +1,10 @@
 .parent {
     height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
 
     /* add solution here */
 }
@@ -8,4 +13,8 @@
     background-color: darkolivegreen;
     color: white;
     padding: 1rem;
+    float: left;
+    
+    
+
 }
